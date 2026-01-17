@@ -13,3 +13,7 @@ public class LaptopService {
         return true;
     }
 }
+
+
+//We have a (1)Client -> (2)Server -> (3)DataBase | We have 03 Layer in the Server (1)Controller (2)Service (3)Repository
+//
