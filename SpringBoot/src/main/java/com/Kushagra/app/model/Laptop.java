@@ -1,4 +1,4 @@
-package com.Kushagra.app;
+package com.Kushagra.app.model;
 
 import org.springframework.stereotype.Component;
 
