@@ -3,9 +3,9 @@ package com.Kushagra.app;
 import org.springframework.stereotype.Component;
 
 @Component
-public class laptop {
+public class Laptop implements Computer{
 
     public void compile(){
-        System.out.println("Compiling...");
+        System.out.println("Compiling using Laptop");
     }
 }

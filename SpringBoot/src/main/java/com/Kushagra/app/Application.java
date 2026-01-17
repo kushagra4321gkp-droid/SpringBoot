@@ -13,7 +13,9 @@ public class Application {
 		System.out.println("Hello world");
 
 		Human obj = context.getBean(Human.class);
+		System.out.println(obj.getAge());
 		obj.code();
+
 	}
 
 }
